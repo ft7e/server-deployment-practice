@@ -1,8 +1,8 @@
 # server-deployment-practice
 
-## [https://ibraheem-server-deploy-dev.herokuapp.com](dev branch Heroku deployment)
+[dev branch Heroku deployment](https://ibraheem-server-deploy-dev.herokuapp.com)
 
-## [https://ibraheem-server-deploy-prod.herokuapp.com](main branch Heroku deployment)
+[main branch Heroku deployment](https://ibraheem-server-deploy-prod.herokuapp.com)
 
 ### Useful Notes :
 
